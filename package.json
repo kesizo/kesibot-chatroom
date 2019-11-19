@@ -27,7 +27,7 @@
   "author": "a.konovalov88@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "react": "^16.9.0",
     "react-chat-widget": "^2.1.5",
     "react-dom": "^16.9.0",
