@@ -1,0 +1,5 @@
+Bundle-Name: chatroom-liferay7
+Bundle-SymbolicName: com.kesizo.kesibot.chatroom
+Bundle-Version: 1.0.0
+Web-ContextPath: /chatroom-liferay7
+-sources: true
