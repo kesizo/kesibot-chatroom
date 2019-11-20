@@ -1,7 +1,7 @@
 {
-  "name": "react-front",
+  "name": "kesibot-chatroom",
   "version": "1.0.0",
-  "description": "MVC Portlet with React JS and Webpack",
+  "description": "Kesibot Chatroom",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sani-banani/react-liferay-portlet.git"
+    "url": "https://github.com/kesizo/kesibot-chatroom/"
   },
-  "author": "a.konovalov88@gmail.com",
+  "author": "kesizospace@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": ">=0.18.1",
     "react": "^16.9.0",
     "react-chat-widget": "^2.1.5",
     "react-dom": "^16.9.0",
